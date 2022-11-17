@@ -1,0 +1,64 @@
+[
+    {
+        "avatar": "https://i.imgur.com/re0mF4v.png",
+        "id": 0,
+        "name": "Club de Desarrollo Web",
+        "users": [
+            {
+                "avatar": "",
+                "color": "#FF9AD5",
+                "name": "GU",
+                "size": 32
+            },
+            {
+                "avatar": "https://i.imgur.com/xyev5eL.png",
+                "color": "",
+                "name": "KA",
+                "size": 32
+            },
+            {
+                "avatar": "",
+                "color": "#82C43C",
+                "name": "ZT",
+                "size": 32
+            },
+            {
+                "avatar": "",
+                "color": "#FFC542",
+                "name": "SA",
+                "size": 32
+            }
+        ]
+    },
+    {
+        "avatar": "https://cdn-icons-png.flaticon.com/512/3048/3048356.png",
+        "id": 1,
+        "name": "Algoritmo de Baile",
+        "users": [
+            {
+                "avatar": "",
+                "color": "#50B5FF",
+                "name": "MI",
+                "size": 32
+            },
+            {
+                "avatar": "",
+                "color": "#A461D8",
+                "name": "AS",
+                "size": 32
+            }
+        ]
+    }, {
+        "avatar": "https://play-lh.googleusercontent.com/Mq440gkqrlRScHfiefmWtnWbDn1lNbOoNGpfEYYy28OO3mKgnSjly3ux6RNk3BjGOA",
+        "id": 2,
+        "name": "Ping Pong",
+        "users": [
+            {
+                "avatar": "",
+                "color": "#50B5FF",
+                "name": "MI",
+                "size": 32
+            }
+        ]
+    }
+]
